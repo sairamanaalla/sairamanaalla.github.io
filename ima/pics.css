@@ -1,0 +1,80 @@
+.first{
+  background-color: #ff4c68;
+  padding-bottom: 50px;
+  font-family: 'PT Serif', serif;;
+  color:#fff;
+  }
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  padding-top: 100px;
+  padding-bottom: 30px;
+}
+h2{
+  padding-top: 10px;
+}
+.main-image{
+  padding-top: 50px;
+  padding-left: 90px;
+}
+.top-container{
+  padding-left: 30px;
+  margin: 5% 15%;
+  background-color: #ff4c68;
+}
+.navigation{
+  background-color: #ff4c68;
+}
+.middle-container{
+  margin: 10% 7% 5% 10%;
+  text-align: center;
+}
+.carousel-image{
+  margin: 5% 0 10% 10%;
+}
+.testimonials{
+ text-align: center;
+ background-color: #ff4c68;
+ padding-top: 5%;
+ padding-bottom: 5%;
+}
+#pricing{
+  padding: 10% 0 10% 10%;
+  text-align: center;
+}
+.testimonial-image{
+  border-radius: 100%;
+  height: 10%;
+  width: 10%;
+  text-align: center;
+  margin-right: 8%;
+}
+.testimonial-text{
+  margin: 0 10% 0 10%;
+}
+.Download-website{
+  background-color: #ff4c68;
+  text-align: center;
+  color: #fff;
+  padding-bottom: 3%;
+}
+.last{
+  padding-top: 5%;
+  padding-bottom: 7%;
+  text-align: center;
+  letter-spacing: 5px;
+}
+.Download-button{
+  margin: 3% 3% 0 5%;
+}
+@media (max-width: 900px) {
+  .top-container{
+    text-align: center;
+  }
+  .main-image{
+    position: static;
+  }
+  .middle-container{
+    text-align: center;
+  }
+
+}
